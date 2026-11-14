@@ -2,7 +2,7 @@
 
 **Category:** Forensics  
 **Difficulty:** Easy
-**Challenge Link:** [Flag in Flame](https://learn.cylabacademy.org/library/524?page=1&category=4&workspace=true)
+**Challenge Link:** [Hidden in Plain Sight](https://learn.cylabacademy.org/library/524?page=1&category=4&workspace=true)
 
 ## Solution
 
