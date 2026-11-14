@@ -4,6 +4,7 @@
 
 **Category:** Forensics  
 **Level:** Easy
+**Challenge Link:** [Binary Digits – PicoCTF CyLab 2026](https://learn.cylabacademy.org/library/698?page=1&category=4&workspace=true)
 
 ### Steps to Solve
 
